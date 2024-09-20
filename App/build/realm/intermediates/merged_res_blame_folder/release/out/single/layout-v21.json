@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "io.realm-merged_res-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "io.realm-core-1.13.1-16:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/layout-v21/notification_action.xml",
+        "source": "io.realm-core-1.13.1-16:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "io.realm-core-1.13.1-16:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "io.realm-core-1.13.1-16:/layout-v21/notification_template_custom_big.xml"
+    }
+]

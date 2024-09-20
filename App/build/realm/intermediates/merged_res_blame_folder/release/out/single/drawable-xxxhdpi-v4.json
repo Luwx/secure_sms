@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.realm-merged_res-25:/drawable-xxxhdpi-v4/ic_call_answer_video.png",
+        "source": "io.realm-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/drawable-xxxhdpi-v4/ic_call_decline_low.png",
+        "source": "io.realm-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "io.realm-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/drawable-xxxhdpi-v4/ic_call_answer.png",
+        "source": "io.realm-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/drawable-xxxhdpi-v4/ic_call_decline.png",
+        "source": "io.realm-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "io.realm-merged_res-25:/drawable-xxxhdpi-v4/ic_call_answer_low.png",
+        "source": "io.realm-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    }
+]
