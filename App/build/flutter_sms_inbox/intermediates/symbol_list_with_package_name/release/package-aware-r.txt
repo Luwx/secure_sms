@@ -1,1 +1,0 @@
-com.juliusgithaiga.flutter_sms_inbox
